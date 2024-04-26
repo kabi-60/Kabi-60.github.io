@@ -23,7 +23,7 @@ const About = () => {
                <h1 className="font-ubuntu text-center text-4xl lg:text-6xl font-bold text-[#000]">
                   ABOUT ME
                </h1>
-               <p className="lg:mt-2 font-ubuntu text-center font-bold lg:text-lg lg:font-medium">
+               <p className="lg:mt-2  font-ubuntu text-center   lg:text-lg lg:font-medium">
                   I M MERN-STACK DEVELOPER / UI/UX DESIGNER
                </p>
                <div className="my-10 ml-10 md:ml-16 lg:ml-0 mx-auto  grid  md:grid-cols-2 gap-2 md:gap-5">
