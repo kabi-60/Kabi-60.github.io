@@ -12,7 +12,7 @@ const Works = () => {
     <section id='Works'  className='container mx-auto'>
         <div className="container mx-auto lg:my-10">
             <h1 className="text-center font-ubuntu text-4xl lg:text-6xl font-bold text-[#000]">
-               OUR SERVICES
+               MY SERVICES
             </h1>
             <p className="mx-auto mt-3 lg:mt-8 text-sm w-[90%] lg:w-[50%] text-center font-ubuntu lg:text-xl font-medium text-[#646464]">
                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod
