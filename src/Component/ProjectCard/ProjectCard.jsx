@@ -17,7 +17,7 @@ const ProjectCard = () => {
          data-aos="zoom-in"
          data-aos-duration="4000"
       >
-         <div class="relative  mb-10  w-[250px] sm:w-[400px]   md:w-[300px] lg:[200px] xl:w-[400px]   rounded border-2 border-gray-200 bg-white   shadow-lg shadow-gray-300">
+         <div class="relative  mb-10  w-[300px] sm:w-[400px]   md:w-[300px] lg:[200px] xl:w-[400px]   rounded border-2 border-gray-200 bg-white   shadow-lg shadow-gray-300">
             <figure>
                <img
                   src="https://m.media-amazon.com/images/I/81F3ZLBMCqL.jpg"
@@ -61,7 +61,7 @@ const ProjectCard = () => {
                </div> 
             </div>
          </div>
-         <div class="relative mb-10  w-[250px] sm:w-[400px] md:w-[300px]  xl:w-[400px]  rounded  border-2 border-gray-200 bg-white  shadow-lg shadow-gray-300">
+         <div class="relative mb-10  w-[300px] sm:w-[400px] md:w-[300px]  xl:w-[400px]  rounded  border-2 border-gray-200 bg-white  shadow-lg shadow-gray-300">
             <figure>
                <img src={beta} alt="Shoes" className="rounded" />
             </figure>
@@ -101,7 +101,7 @@ const ProjectCard = () => {
                </div>
             </div>
          </div>{' '}
-         <div class="relative mb-10  w-[250px] sm:w-[400px] md:w-[300px]  xl:w-[400px]  rounded  border-2 border-gray-200 bg-white  shadow-lg shadow-gray-300">
+         <div class="relative mb-10  w-[300px] sm:w-[400px] md:w-[300px]  xl:w-[400px]  rounded  border-2 border-gray-200 bg-white  shadow-lg shadow-gray-300">
             <figure>
                <img src={debit} alt="Shoes" className="rounded" />
             </figure>
@@ -141,7 +141,7 @@ const ProjectCard = () => {
                </div>
             </div>
          </div>
-         <div class="relative mb-10  w-[250px] sm:w-[400px] md:w-[300px]  xl:w-[400px]  rounded  border-2 border-gray-200 bg-white  shadow-lg shadow-gray-300">
+         <div class="relative mb-10  w-[300px] sm:w-[400px] md:w-[300px]  xl:w-[400px]  rounded  border-2 border-gray-200 bg-white  shadow-lg shadow-gray-300">
             <figure>
                <img src={pass} alt="Shoes" className="rounded" />
             </figure>
@@ -181,7 +181,7 @@ const ProjectCard = () => {
                </div>
             </div>
          </div>
-         <div class="relative mb-10  w-[250px] sm:w-[400px] md:w-[300px]  xl:w-[400px]  rounded  border-2 border-gray-200 bg-white  shadow-lg shadow-gray-300">
+         <div class="relative mb-10  w-[300px] sm:w-[400px] md:w-[300px]  xl:w-[400px]  rounded  border-2 border-gray-200 bg-white  shadow-lg shadow-gray-300">
             <figure>
                <img src={quiz} alt="Shoes" className="rounded" />
             </figure>
@@ -221,7 +221,7 @@ const ProjectCard = () => {
                </div>
             </div>
          </div>
-         {/* <div class="relative mb-10  w-[250px] sm:w-[400px] md:w-[300px]  xl:w-[400px]  rounded  border-2 border-gray-200 bg-white  shadow-lg shadow-gray-300">
+         {/* <div class="relative mb-10  w-[300px] sm:w-[400px] md:w-[300px]  xl:w-[400px]  rounded  border-2 border-gray-200 bg-white  shadow-lg shadow-gray-300">
             <figure>
                <img src={debit} alt="Shoes" className="rounded" />
             </figure>
@@ -261,7 +261,7 @@ const ProjectCard = () => {
                </div>
             </div>
          </div> */}
-         {/* <div class="relative  mb-10  w-[250px] sm:w-[400px] md:w-[300px]  xl:w-[400px]   rounded border-2 border-gray-200 bg-white  shadow-lg shadow-gray-300">
+         {/* <div class="relative  mb-10  w-[300px] sm:w-[400px] md:w-[300px]  xl:w-[400px]   rounded border-2 border-gray-200 bg-white  shadow-lg shadow-gray-300">
             <figure>
                <img src={pass} alt="Shoes" className="rounded" />
             </figure>
@@ -301,7 +301,7 @@ const ProjectCard = () => {
                </div>
             </div>
          </div> */}
-         <div class="relative mb-10  w-[250px] sm:w-[400px] md:w-[300px]  xl:w-[400px]  rounded  border-2 border-gray-200 bg-white  shadow-lg shadow-gray-300">
+         <div class="relative mb-10  w-[300px] sm:w-[400px] md:w-[300px]  xl:w-[400px]  rounded  border-2 border-gray-200 bg-white  shadow-lg shadow-gray-300">
             <figure>
                <img src={slider} alt="Shoes" className="rounded" />
             </figure>
@@ -338,7 +338,7 @@ const ProjectCard = () => {
                </div>
             </div>
          </div>
-         <div class="relative mb-10  w-[250px] sm:w-[400px] md:w-[300px]  xl:w-[400px]  rounded  border-2 border-gray-200 bg-white  shadow-lg shadow-gray-300">
+         <div class="relative mb-10  w-[300px] sm:w-[400px] md:w-[300px]  xl:w-[400px]  rounded  border-2 border-gray-200 bg-white  shadow-lg shadow-gray-300">
             <figure>
                <img src={repair} alt="Shoes" className="rounded" />
             </figure>
@@ -375,7 +375,7 @@ const ProjectCard = () => {
                </div>
             </div>
          </div>
-         <div class="relative mb-10  w-[250px] sm:w-[400px] md:w-[300px]  xl:w-[400px]  rounded  border-2 border-gray-200 bg-white  shadow-lg shadow-gray-300">
+         <div class="relative mb-10  w-[300px] sm:w-[400px] md:w-[300px]  xl:w-[400px]  rounded  border-2 border-gray-200 bg-white  shadow-lg shadow-gray-300">
             <figure>
                <img src={agency} alt="Shoes" className="rounded" />
             </figure>
@@ -410,7 +410,7 @@ const ProjectCard = () => {
                </div>
             </div>
          </div>
-         <div class="relative mb-10  w-[250px] sm:w-[400px] md:w-[300px]  xl:w-[400px]  rounded  border-2 border-gray-200 bg-white  shadow-lg shadow-gray-300">
+         <div class="relative mb-10  w-[300px] sm:w-[400px] md:w-[300px]  xl:w-[400px]  rounded  border-2 border-gray-200 bg-white  shadow-lg shadow-gray-300">
             <figure>
                <img src={rock} alt="Shoes" className="rounded" />
             </figure>
@@ -447,7 +447,7 @@ const ProjectCard = () => {
                </div>
             </div>
          </div>
-         {/* <div class="relative mb-10  w-[250px] sm:w-[400px] md:w-[300px]  xl:w-[400px]  rounded  border-2 border-gray-200 bg-white  shadow-lg shadow-gray-300">
+         {/* <div class="relative mb-10  w-[300px] sm:w-[400px] md:w-[300px]  xl:w-[400px]  rounded  border-2 border-gray-200 bg-white  shadow-lg shadow-gray-300">
             <figure>
                <img src={login} alt="Shoes" className="rounded" />
             </figure>
@@ -484,7 +484,7 @@ const ProjectCard = () => {
                </div>
             </div>
          </div> */}
-          <div class="relative  mb-10  w-[250px] sm:w-[400px]   md:w-[300px] lg:[200px] xl:w-[400px]   rounded border-2 border-gray-200 bg-white   shadow-lg shadow-gray-300">
+          <div class="relative  mb-10  w-[300px] sm:w-[400px]   md:w-[300px] lg:[200px] xl:w-[400px]   rounded border-2 border-gray-200 bg-white   shadow-lg shadow-gray-300">
             <figure>
                <img
                   src={login}
@@ -528,7 +528,7 @@ const ProjectCard = () => {
                </div> 
             </div>
          </div>
-         <div class="relative mb-10  w-[250px] sm:w-[400px] md:w-[300px]  xl:w-[400px]  rounded  border-2 border-gray-200 bg-white  shadow-lg shadow-gray-300">
+         <div class="relative mb-10  w-[300px] sm:w-[400px] md:w-[300px]  xl:w-[400px]  rounded  border-2 border-gray-200 bg-white  shadow-lg shadow-gray-300">
             <figure>
                <img src={todo} alt="Shoes" className="rounded" />
             </figure>
