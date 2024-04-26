@@ -13,7 +13,7 @@ const Home = () => {
    return (
       <section id="Home" className="">
          <div className="container mx-auto  sm:flex">
-            <nav className="container  absolute top-8 my-auto flex lg:left-0  px-5 sm:px-3  lg:top-5 lg:px-3 ">
+            <nav className="container  absolute top-8 my-auto flex lg:left-0  px-5 sm:px-3  lg:top-5 lg:px-20 ">
                <a
                   href="#Home"
                   className=" flex  font-bold text-2xl  "
