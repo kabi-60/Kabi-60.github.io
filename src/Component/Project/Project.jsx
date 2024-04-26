@@ -7,7 +7,7 @@ const Project = () => {
          <div className=" lg:my-10 py-9" id='Project'>
             
             <h1 className="text-center font-ubuntu text-4xl lg:text-6xl font-bold text-[#000]">
-               OUR Projects
+               MY Projects
             </h1>
             <p className="mx-auto mt-2 w-[90%] text-sm  md:mt-8 lg:w-[50%]  text-center font-ubuntu md:text-xl font-semibold text-[#646464]">
                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod
